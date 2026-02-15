@@ -15,12 +15,13 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-answer = input("Would you like a compliment?: ").strip().lower()
+answer = input("Would you like a compliment?: ").strip()
 
 if answer == "yes":
     print("You have wonderful eyes.")
 
 print("Thank you for playing.")
+
 
 
 ########### END YER CODE ABOVE THIS LINE ###########
