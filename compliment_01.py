@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: William Storrs
+# DATE: February 15, 2026
+# BRIEF DESCRIPTION: Compliment Lab
 
 
 
@@ -15,18 +15,17 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+answer = input("Would you like a compliment?: ").strip()
 
+if answer == "yes":
+    print("You have wonderful eyes.")
 
-
-
-
-
+print("Thank you for playing.")
 
 
 
 ########### END YER CODE ABOVE THIS LINE ###########
 
-    
 
 
 
@@ -67,12 +66,12 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+3
 
 
 2. What was the hardest part of this lab?
 
-
+Nothing was exactly hard, just going back and forth between notebooks and remembering what code words to use. 
 
 
 
